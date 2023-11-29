@@ -1,2 +1,2 @@
 # holiday-reciever
-ReRecieveing holiday data from KR data Archive through API.
+Recieveing holiday data from KR gov public data portal through Open API.
