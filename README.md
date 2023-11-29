@@ -1,2 +1,2 @@
-# sincerely
-Customized goods for your brand, Sincerely.
+# holiday-reciever
+ReRecieveing holiday data from KR data Archive through API.
